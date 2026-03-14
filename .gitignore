@@ -2,4 +2,4 @@ vault.json
 secret.key
 config.json
 tbsystem.spec
-build/
+build\tbsystem
