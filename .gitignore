@@ -1,5 +1,7 @@
-vault.json
-secret.key
-config.json
-tbsystem.spec
-build\tbsystem
+*
+
+!/.gitignore
+!/tbsystem.py
+!/dist/
+
+!/dist/**
